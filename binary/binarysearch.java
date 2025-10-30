@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 class Binary {
     public int search(int[] nums, int target) {
