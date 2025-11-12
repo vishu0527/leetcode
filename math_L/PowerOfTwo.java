@@ -1,3 +1,4 @@
+//231. Power of Two
 package math_L;
 
 class Solution {
@@ -18,8 +19,8 @@ public class PowerOfTwo {
         int n2 = 16;
         int n3 = 3;
 
-        System.out.println(n1 + " → " + s.isPowerOfTwo(n1)); 
-        System.out.println(n2 + " → " + s.isPowerOfTwo(n2)); 
-        System.out.println(n3 + " → " + s.isPowerOfTwo(n3)); 
+        System.out.println(n1+"-"+s.isPowerOfTwo(n1)); 
+        System.out.println(n2+"-"+s.isPowerOfTwo(n2)); 
+        System.out.println(n3+"-"+s.isPowerOfTwo(n3)); 
     }
 }
